@@ -13,4 +13,4 @@ Thành viên nhóm 🌠<br/>
 &Tab;👨‍🔬[Ca Thành Nhân](https://www.facebook.com/cathanhnhan287)<br/>
 &Tab;👨‍🔬[Hồ Nguyên Quốc](https://www.facebook.com/honguyenquoc0818)<br/>
 &Tab;👨‍🔬[Ngô Duy Hòa](https://www.facebook.com/duyhoa.0202)<br/>
-&Tab;👨‍🔬[Nguyễn Bá Hoàng](http://zaloapp.com/qr/p/7p6oedoxxasb)
+&Tab;👨‍🔬[Nguyễn Bá Hoàng](https://www.facebook.com/hgit2002/)
