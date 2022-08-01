@@ -12,4 +12,4 @@ Thành viên nhóm 🌠<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;👨‍🔬[Ca Thành Nhân](https://www.facebook.com/cathanhnhan287)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;👨‍🔬[Hồ Nguyên Quốc](https://www.facebook.com/honguyenquoc0818)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;👨‍🔬[Ngô Duy Hòa](https://www.facebook.com/duyhoa.0202)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;👨‍🔬[Nguyễn Bá Hoàng](https://www.facebook.com/hgit2002/)
+&nbsp;&nbsp;&nbsp;&nbsp;👨‍🔬[Nguyễn Bá Hoàng](https://www.facebook.com/hgit2002)
