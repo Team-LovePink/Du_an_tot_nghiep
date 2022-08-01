@@ -1,5 +1,5 @@
 # Du_an_tot_nghiep
-Dự án tốt nghiệp nhóm sinh viên <span style="color: orange">Fpoly HCM K16.2_3</span>
+Dự án tốt nghiệp nhóm sinh viên ![#ffa500]`Fpoly HCM K16.2_3`
 
 Đây là dự án tốt nghiệp của nhóm [LovePink](https://drive.google.com/drive/u/0/folders/1d4apvXZ3-W-dNWJh2sgesXSru6p7bWTB) với đề tài: "Website Mạng xã hội mua bán" dựa trên việc giải quyết vấn để của mọi người, mục đích của dự án là giải quyết mong muốn từ khách hàng.<hr/>
   Vd: A cần người sửa nhà, A đăng thông tin cần người sửa chữa với thông tin được mô tả trong phần nội dung và hình ảnh<br/>
